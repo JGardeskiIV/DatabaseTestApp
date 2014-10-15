@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DatabaseTestApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- TextView Defaults -->
+    <string name="name_default">Workouts</string>
+    <string name="set_rep_default">0</string>
+    <string name="separator">-</string>
+    <string name="no_workouts">No workouts currently, tap -></string>
+    <!-- EditText Defaults -->
+    <string name="name_hint">Enter workout name</string>
+    <string name="reps_hint">Enter # of reps</string>
+    <string name="sets_hint">Enter # of sets</string>
+    
+    <!-- Buttons -->
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="add_button">Add</string>
+</resources>
